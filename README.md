@@ -4,6 +4,6 @@
 
 
 img[alt="screenshot"] { 
-width:  271px; 
-height: 480px;
+max-width: 271px; 
+max-height: 480px;
 }
